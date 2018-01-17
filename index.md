@@ -4,13 +4,13 @@ title: Home
 
 | Date | Topic | Notes/Reading |
 | :---:               | ---   | --- |
-| Week&nbsp;1 (1/24)  | Introduction, Platforms, GitHub | [Mobile development 101: What you need to know][infow]<br/>Things I wish I had known before starting iOS development [Part 1][wish1] [Part 2][wish2]<br/>What I Wished I Knew Before I Jumped Into iOS [Part I][spwish1] [Part II][spwish2] |
+| Week&nbsp;1 (1/24)  | Introduction, Platforms, GitHub | *[Mobile development 101: What you need to know][infow]*<br/>*Things I wish I had known before starting iOS development* [Part 1][wish1],[Part 2][wish2]<br/>*What I Wished I Knew Before I Jumped Into iOS* [Part 1][spwish1],[Part 2][spwish2] |
 | Week&nbsp;2 (1/31)* | | |
-| Week&nbsp;3 (2/7)   | iOS  | [Project 0 (GitHub) Due](/project-0) |
+| Week&nbsp;3 (2/7)   | iOS  | [Project 0 (GitHub) Due](/project-0)<br/>*[Start Developing iOS Apps][iosdev1]<br/>[App Programming Guide for iOS][iosapp]<br/>[Getting Started with iOS videos][iosvid] |
 | Week&nbsp;4 (2/14)  | iOS  | |
-| Week&nbsp;5 (2/21)  | Android  | Project 1 (iOS) Due |
+| Week&nbsp;5 (2/21)  | Android  | Project 1 (iOS) Due<br/>[Intro to Android][andr1]<br/>[Android Studio][astudio] |
 | Week&nbsp;6 (2/28)* | | |
-| Week&nbsp;7 (3/7)   | Android / Hybrid | Project 2 (Android) Due |
+| Week&nbsp;7 (3/7)   | Android / Hybrid | Project 2 (Android) Due<br/>[Android Activities][activ] |
 | Week&nbsp;8 (3/14)  | *Spring Break* | |
 | Week&nbsp;9 (3/21)  | Hybrid | Project 5 (platform choice) Proposal Due |
 | Week&nbsp;10 (3/28) | Data Persistence | Project 3 (Hybrid) Due |
@@ -30,7 +30,6 @@ Please refer to the [Syllabus](syllabus.html) for more details on the course, gr
 * [Apple Developer Portal](http://developer.apple.com)
 * [Android Developer Home](https://developer.android.com/)
 
-
 <hr/>
 
 ## Course Materials
@@ -43,3 +42,9 @@ Please refer to the [Syllabus](syllabus.html) for more details on the course, gr
   [spwish1]: http://simpleprogrammer.com/2015/11/18/what-i-wished-i-knew-before-i-jumped-into-ios-part-i/
   [spwish2]: http://simpleprogrammer.com/2015/12/23/what-i-wish-i-knew-before-i-jumped-into-ios-part-ii/
   [infow]: https://www.infoworld.com/article/2623833/mobile-development/mobile-development-101--what-you-need-to-know.html
+  [iosdev1]: https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/
+  [andr1]: https://developer.android.com/guide/index.html
+  [astudio]: https://developer.android.com/studio/intro/index.html
+  [activ]: https://developer.android.com/guide/components/activities/index.html
+  [iosapp]: https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072-CH1-SW1
+  [iosvid]: https://training.apple.com/courses/Getting_Started_with_iOS_Development/training.html

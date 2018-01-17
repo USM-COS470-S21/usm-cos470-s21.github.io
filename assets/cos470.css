@@ -34,11 +34,11 @@ td {
 }
 
 .home tr td:nth-child(2) {
-	width: 40%;
+	width: 20%;
 }
 
 .home tr td:nth-child(3) {
-	width: 40%;
+	width: 60%;
 }
 
 .page-heading {

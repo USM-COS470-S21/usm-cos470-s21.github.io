@@ -6,7 +6,7 @@ title: Home
 | :---:               | ---   | --- |
 | Week&nbsp;1 (1/24)  | Introduction, Platforms, GitHub |  |
 | Week&nbsp;2 (1/31)* | | |
-| Week&nbsp;3 (2/7)   | iOS  | Project 0 (GitHub) Due |
+| Week&nbsp;3 (2/7)   | iOS  | [Project 0 (GitHub) Due](/project-0) |
 | Week&nbsp;4 (2/14)  | iOS  | |
 | Week&nbsp;5 (2/21)  | Android  | Project 1 (iOS) Due |
 | Week&nbsp;6 (2/28)* | | |

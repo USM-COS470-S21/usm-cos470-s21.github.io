@@ -2,7 +2,6 @@
 title: Project 0 - GitHub Basics
 permalink: /project-0
 ---
-## Specification
 
 Your first assignment for this course is to become accustomed to how GitHub and GitHub Classroom works because we will be using it extensively in the class for your projects and for assignment submission. There are two parts to the assignment and you need to complete both of them to receive credit.
 
@@ -20,7 +19,7 @@ There are several tutorials you should go through if you are not familiar with G
 ## Part 1 - Fix My Mistakes
 If you do not have a GitHub account, go to [https://github.com](https://github.com) and create one before going any further.
 
-Once you have an account, you can [accept assignment]() in GitHub Classroom. When you do that a repository will be created for you. It will be called github-tutorial-yourgithubname and the URL should look like `https://github.com/USM-COS470-S18/project-0-github-yourgithubname`. You should *clone* and work with this new respository. It will also be where you *push* your submission. Other assignments/projects will work similarly.
+Once you have an account, you can [accept assignment]() in GitHub Classroom. When you do that a repository will be created for you. It will be called `project-0-github-yourgithubname` and the URL should look like `https://github.com/USM-COS470-S18/project-0-github-yourgithubname`. You should *clone* and work with this new respository. It will also be where you *push* your submission. Other assignments/projects will work similarly.
 
 The repository that was created when you accepted the assignment has 4 files in it: 3 POTDs from CS 1110 and README.md.
 

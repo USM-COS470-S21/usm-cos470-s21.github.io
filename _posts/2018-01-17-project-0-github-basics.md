@@ -21,7 +21,7 @@ If you do not have a GitHub account, go to [https://github.com](https://github.c
 
 Once you have an account, you can [accept the assignment]() in GitHub Classroom. When you do that a repository will be created for you. It will be called `project-0-github-yourgithubname` and the URL should look like `https://github.com/USM-COS470-S18/project-0-github-yourgithubname`. You should *clone* and work with this new respository. It will also be where you *push* your submission. Other assignments/projects will work similarly.
 
-The repository that was created when you accepted the assignment has 4 files in it: 3 POTDs from CS 1110 and README.md.
+The repository that was created when you accepted the assignment has 4 files in it that are part of this assignment. There are two programs and three problems to fix.
 
 You need to do the following:
 

@@ -37,6 +37,11 @@ td {
 	vertical-align: top;
 }
 
+table {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
 /*
 .page-heading:nth-child(1) {
 	margin-top: 0;

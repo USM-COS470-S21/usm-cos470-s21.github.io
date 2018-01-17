@@ -6,20 +6,20 @@ title: Home
 | :---:               | ---   | --- |
 | Week&nbsp;1 (1/24)  | Introduction, Platforms, GitHub | *[Mobile development 101: What you need to know][infow]*<br/>*Things I wish I had known before starting iOS development* [Part 1][wish1],[Part 2][wish2]<br/>*What I Wished I Knew Before I Jumped Into iOS* [Part 1][spwish1],[Part 2][spwish2] |
 | Week&nbsp;2 (1/31)* | | |
-| Week&nbsp;3 (2/7)   | iOS  | [Project 0 (GitHub) Due](/project-0)<br/>*[Start Developing iOS Apps][iosdev1]<br/>[App Programming Guide for iOS][iosapp]<br/>[Getting Started with iOS videos][iosvid] |
+| Week&nbsp;3 (2/7)   | iOS<br/>[Project 0 (GitHub) Due](/project-0)  | [Start Developing iOS Apps][iosdev1]<br/>[App Programming Guide for iOS][iosapp]<br/>[Getting Started with iOS videos][iosvid] |
 | Week&nbsp;4 (2/14)  | iOS  | |
-| Week&nbsp;5 (2/21)  | Android  | Project 1 (iOS) Due<br/>[Intro to Android][andr1]<br/>[Android Studio][astudio] |
+| Week&nbsp;5 (2/21)  | Android <br/>Project 1 (iOS) Due | [Intro to Android][andr1]<br/>[Android Studio][astudio] |
 | Week&nbsp;6 (2/28)* | | |
-| Week&nbsp;7 (3/7)   | Android / Hybrid | Project 2 (Android) Due<br/>[Android Activities][activ] |
+| Week&nbsp;7 (3/7)   | Android / Hybrid<br/>Project 2 (Android) Due | [Android Activities][activ] |
 | Week&nbsp;8 (3/14)  | *Spring Break* | |
 | Week&nbsp;9 (3/21)  | Hybrid | Project 5 (platform choice) Proposal Due |
-| Week&nbsp;10 (3/28) | Data Persistence | Project 3 (Hybrid) Due |
+| Week&nbsp;10 (3/28) | Data Persistence<br/>Project 3 (Hybrid) Due |  |
 | Week&nbsp;11 (4/4)  | Server Side | |
-| Week&nbsp;12 (4/11) | Sensors and Hardware | Project 4 (full) Due |
+| Week&nbsp;12 (4/11) | Sensors and Hardware<br/>Project 4 (full) Due  | |
 | Week&nbsp;13 (4/18) | User Interface | |
 | Week&nbsp;14 (4/25) | Design | |
 | Week&nbsp;15 (5/2)  | Advanced Platform, AR/VR | |
-| Finals Week (5/9)   | Presentations | Project 5 (choice) Due |
+| Finals Week (5/9)   | Presentations<br/>Project 5 (choice) Due |  |
 
 Please refer to the [Syllabus](syllabus.html) for more details on the course, grading, schedule, etc.. This page is meant only as a summary and quick-reference.
 
@@ -31,8 +31,6 @@ Please refer to the [Syllabus](syllabus.html) for more details on the course, gr
 * [Android Developer Home](https://developer.android.com/)
 
 <hr/>
-
-## Course Materials
 
   [cs193p]: http://www.stanford.edu/class/cs193p/
   [cs193a]: http://www.stanford.edu/class/cs193a/

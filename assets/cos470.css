@@ -20,16 +20,16 @@ tr:last-child td {
 	border-bottom: 1px solid black;
 }
 
-tr td:nth-child(1) {
+#schedule tr td:nth-child(1) {
 	width: 10%;
 	text-align: center;
 }
 
-tr td:nth-child(2) {
+#schedule tr td:nth-child(2) {
 	width: 40%;
 }
 
-tr td:nth-child(3) {
+#schedule tr td:nth-child(3) {
 	width: 40%;
 }
 

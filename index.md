@@ -6,13 +6,13 @@ title: Home
 | :---:               | ---   | --- |
 | Week&nbsp;1 (1/24)  | Introduction, Platforms, GitHub | *[Mobile development 101: What you need to know][infow]*<br/>*Things I wish I had known before starting iOS development* [Part 1][wish1],[Part 2][wish2]<br/>*What I Wished I Knew Before I Jumped Into iOS* [Part 1][spwish1],[Part 2][spwish2] |
 | Week&nbsp;2 (1/31)* | | |
-| Week&nbsp;3 (2/7)   | iOS<br/>[Project 0 (GitHub) Due](/project-0)  | [Start Developing iOS Apps][iosdev1]<br/>[App Programming Guide for iOS][iosapp]<br/>[Getting Started with iOS videos][iosvid] |
-| Week&nbsp;4 (2/14)  | iOS  | |
-| Week&nbsp;5 (2/21)  | Android <br/>Project 1 (iOS) Due | [Intro to Android][andr1]<br/>[Android Studio][astudio] |
+| Week&nbsp;3 (2/7)   | iOS (Swift)<br/>[Project 0 (GitHub) Due](/project-0)  | [Start Developing iOS Apps][iosdev1]<br/>[App Programming Guide for iOS][iosapp]<br/>[Getting Started with iOS videos][iosvid] |
+| Week&nbsp;4 (2/14)  | iOS (Swift) | |
+| Week&nbsp;5 (2/21)  | Android (Java)<br/>Project 1 (iOS) Due | [Intro to Android][andr1]<br/>[Android Studio][astudio] |
 | Week&nbsp;6 (2/28)* | | |
-| Week&nbsp;7 (3/7)   | Android / Hybrid<br/>Project 2 (Android) Due | [Android Activities][activ] |
+| Week&nbsp;7 (3/7)   | Android (Java) / Hybrid (JavaScript)<br/>Project 2 (Android) Due | [Android Activities][activ] |
 | Week&nbsp;8 (3/14)  | *Spring Break* | |
-| Week&nbsp;9 (3/21)  | Hybrid | Project 5 (platform choice) Proposal Due |
+| Week&nbsp;9 (3/21)  | Hybrid (JavaScript) | Project 5 (platform choice) Proposal Due |
 | Week&nbsp;10 (3/28) | Data Persistence<br/>Project 3 (Hybrid) Due |  |
 | Week&nbsp;11 (4/4)  | Server Side | |
 | Week&nbsp;12 (4/11) | Sensors and Hardware<br/>Project 4 (full) Due  | |

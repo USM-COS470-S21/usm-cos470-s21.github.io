@@ -5,7 +5,7 @@ title: Home
 | Date | Topic | Notes/Reading |
 | :---:               | ---   | --- |
 | Week&nbsp;1 (1/24)  | Introduction, Platforms, GitHub | *[Mobile development 101: What you need to know][infow]*<br/>*Things I wish I had known before starting iOS development* [Part 1][wish1],[Part 2][wish2]<br/>*What I Wished I Knew Before I Jumped Into iOS* [Part 1][spwish1],[Part 2][spwish2] |
-| Week&nbsp;2 (1/31)* | | |
+| Week&nbsp;2 (1/31)* | | [Introduction to iOS 11, Xcode 9 and Swift 4](https://youtu.be/71pyOB4TPRE)<br/>[MVCs](https://youtu.be/l-2FaQTDYAw?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq)|
 | Week&nbsp;3 (2/7)   | iOS (Swift)<br/>[Project 0 (GitHub) Due](/project-0)  | [Start Developing iOS Apps][iosdev1]<br/>[App Programming Guide for iOS][iosapp]<br/>[Getting Started with iOS videos][iosvid] |
 | Week&nbsp;4 (2/14)  | iOS (Swift) | |
 | Week&nbsp;5 (2/21)  | Android (Java)<br/>Project 1 (iOS) Due | [Intro to Android][andr1]<br/>[Android Studio][astudio] |

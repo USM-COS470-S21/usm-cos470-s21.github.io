@@ -6,7 +6,7 @@ permalink: /project-1
 For this project, you are going to build a simple Task List app. Users will be able to open your app and add items to their todo list of things that they want to get done. Each item will have a name, a description, and a way to record whether it has been completed or not. Since we are early in the semester and have not yet covered data storage, the app should pre-populate with just a few example items at start up and work as intended while in use, but it does not have to remember the state of the list from run to run.
 
 <!--more--> 
-To begin work on Project 1 [accept the assignment in GitHub Classroom]().
+To begin work on Project 1 [accept the assignment in GitHub Classroom](https://classroom.github.com/a/vyQ-lQjd).
 
 ## Requirements
 

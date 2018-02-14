@@ -8,7 +8,7 @@ title: Home
 | Week&nbsp;2 (1/31)* | *Work on iOS App* | [Introduction to iOS 11, Xcode 9 and Swift 4](https://youtu.be/71pyOB4TPRE)<br/>[MVCs](https://youtu.be/l-2FaQTDYAw?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq)|
 | Week&nbsp;3 (2/7)   | [iOS (Swift)](/assets/3-iOS Basics.pdf)<br/>[Project 0 (GitHub) Due](/project-0)  | [Start Developing iOS Apps][iosdev1]<br/>[App Programming Guide for iOS][iosapp]<br/>[Getting Started with iOS videos][iosvid] |
 | Week&nbsp;4 (2/14)  | iOS (Swift) | [Swift Playgrounds](https://github.com/danielpi/Swift-Playgrounds) |
-| Week&nbsp;5 (2/21)  | Android (Java)<br/>[Project 1 (iOS) Due](/project-1) | [Intro to Android][andr1]<br/>[Android Studio][astudio] [Building Your First App](https://developer.android.com/training/basics/firstapp/index.html) |
+| Week&nbsp;5 (2/21)  | Android (Java)<br/>[Project 1 (iOS) Due](/project-1) | [Intro to Android][andr1]<br/>[Android Studio][astudio]<br/>[Building Your First App](https://developer.android.com/training/basics/firstapp/index.html) |
 | Week&nbsp;6 (2/28)* | *Work on Android App* | [Ray Wenderlich Android Tutorials](https://www.raywenderlich.com/category/android) [Material Design To Do List Tutorial](http://dandroiddeveloper.github.io/list) |
 | Week&nbsp;7 (3/7)   | Android (Java) / Hybrid (JavaScript)<br/>Project 2 (Android) Due | [Android Activities][activ] |
 | Week&nbsp;8 (3/14)  | *Spring Break* | |

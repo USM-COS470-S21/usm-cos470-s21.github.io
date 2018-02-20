@@ -10,7 +10,7 @@ title: Home
 | Week&nbsp;4 (2/14)  | iOS (Swift) | [Swift Playgrounds](https://github.com/danielpi/Swift-Playgrounds) |
 | Week&nbsp;5 (2/21)  | Android (Java)<br/>[Project 1 (iOS) Due](/project-1) | [Intro to Android][andr1]<br/>[Android Studio][astudio]<br/>[Building Your First App](https://developer.android.com/training/basics/firstapp/index.html) |
 | Week&nbsp;6 (2/28)* | *Work on Android App* | [Ray Wenderlich Android Tutorials](https://www.raywenderlich.com/category/android) [Material Design To Do List Tutorial](http://dandroiddeveloper.github.io/list) |
-| Week&nbsp;7 (3/7)   | Android (Java) / Hybrid (JavaScript)<br/>Project 2 (Android) Due | [Android Activities][activ] |
+| Week&nbsp;7 (3/7)   | Android (Java) / Hybrid (JavaScript)<br/>[Project 2 (Android) Due](/project-2) | [Android Activities][activ] |
 | Week&nbsp;8 (3/14)  | *Spring Break* | |
 | Week&nbsp;9 (3/21)  | Hybrid (JavaScript) | Project 5 (platform choice) Proposal Due |
 | Week&nbsp;10 (3/28) | Data Persistence<br/>Project 3 (Hybrid) Due |  |

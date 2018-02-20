@@ -10,7 +10,7 @@ title: Home
 | Week&nbsp;4 (2/14)  | iOS (Swift) | [Swift Playgrounds](https://github.com/danielpi/Swift-Playgrounds) |
 | Week&nbsp;5 (2/21)  | Android (Java)<br/>[Project 1 (iOS) Due](/project-1) | [Intro to Android][andr1]<br/>[Android Studio][astudio]<br/>[Building Your First App](https://developer.android.com/training/basics/firstapp/index.html) |
 | Week&nbsp;6 (2/28)* | *Work on Android App* | [Ray Wenderlich Android Tutorials](https://www.raywenderlich.com/category/android)<br/> [Material Design To Do List Tutorial](http://dandroiddeveloper.github.io/list) |
-| Week&nbsp;7 (3/7)   | Android (Java) / Hybrid (JavaScript)<br/>[Project 2 (Android) Due](/project-2) | [Android Activities][activ] |
+| Week&nbsp;7 (3/7)   | Android (Java) / Hybrid (JavaScript)<br/>[Project 2 (Android) Due](/project-2) | [Android Activities][activ]<br/>[React native][react]<br/>[React Native - Learn The Basics][reactbasic] |
 | Week&nbsp;8 (3/14)  | *Spring Break* | |
 | Week&nbsp;9 (3/21)  | Hybrid (JavaScript) | Project 5 (platform choice) Proposal Due |
 | Week&nbsp;10 (3/28) | Data Persistence<br/>Project 3 (Hybrid) Due |  |
@@ -46,3 +46,5 @@ Please refer to the [Syllabus](syllabus.html) for more details on the course, gr
   [activ]: https://developer.android.com/guide/components/activities/index.html
   [iosapp]: https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072-CH1-SW1
   [iosvid]: https://training.apple.com/courses/Getting_Started_with_iOS_Development/training.html
+  [reactbasic]: http://facebook.github.io/react-native/docs/tutorial.html
+  [react]: http://facebook.github.io/react-native/

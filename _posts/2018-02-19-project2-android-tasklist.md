@@ -23,11 +23,11 @@ More detailed information about each screen is found below.
 
 To accomplish this, you will (most likely) have some set of the following files in your project:
 
-* TaskListActivity.java - The "main" activity for the app, uses ListView or RecyclerView (better)
-* TaskListAdapter.java - the adapter class that handles how a `Task` appears on a list.
-* TaskDetailActivity.java - an activity that shows the details of a task
-* NewTaskActivity.java - an activity that lets you add a new task.
-* Task.java - the model representing a single task
+* `TaskListActivity.java` - The "main" activity for the app, uses ListView or RecyclerView (better)
+* `TaskListAdapter.java` - the adapter class that handles how a `Task` appears on a list.
+* `TaskDetailActivity.java` - an activity that shows the details of a task
+* `NewTaskActivity.java` - an activity that lets you add a new task.
+* `Task.java` - the model representing a single task
 
 ### TaskListActivity, TaskListAdapter, and Task
 

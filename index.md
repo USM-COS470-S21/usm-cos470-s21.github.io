@@ -12,7 +12,7 @@ title: Home
 | Week&nbsp;6 (2/28)* | *Work on Android App* | [Ray Wenderlich Android Tutorials](https://www.raywenderlich.com/category/android)<br/> [Material Design To Do List Tutorial](http://dandroiddeveloper.github.io/list) |
 | Week&nbsp;7 (3/7)   | Android (Java) / Hybrid (JavaScript) | [Android Activities][activ]<br/>[React native][react]<br/>[React Native - Learn The Basics][reactbasic] |
 | Week&nbsp;8 (3/14)  | *Spring Break* | [Expo Snack IDE][snack]|
-| Week&nbsp;9 (3/21)  | Hybrid (JavaScript) | [Project 2 (Android) Due](/project-2) |
+| Week&nbsp;9 (3/21)  | Hybrid (JavaScript)<br/>[Project 2 (Android) Due](/project-2)| |
 | Week&nbsp;10 (3/28) | Data Persistence<br/>Project 4 (choice) Proposal Due |  |
 | Week&nbsp;11 (4/4)  | Server Side | |
 | Week&nbsp;12 (4/11) | Sensors and Hardware<br/>Project 3 (Hybrid) Due  | |

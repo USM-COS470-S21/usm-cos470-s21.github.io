@@ -15,9 +15,9 @@ title: Home
 | Week&nbsp;9 (3/21)  | Hybrid (JavaScript)<br/>[Project 2 (Android) Due](/project-2)| [Building the TaskList App in React Native](https://shellmonger.com/2017/05/19/__trashed/)|
 | Week&nbsp;10 (3/28) | Data Persistence<br/>Project 4 (choice) Proposal Due |[Building the TaskList App in React Native](https://shellmonger.com/2017/05/19/__trashed/)<br/>[Android - Data and File Storage](https://developer.android.com/guide/topics/data/data-storage.html)<br/>[iOS - Persist Data](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/PersistData.html)  |
 | Week&nbsp;11 (4/4)  | Server Side | [Adding Redux to the React Native TaskList App](https://shellmonger.com/2017/05/19/__trashed/)<br/>[Firebase](https://firebase.google.com)<br/>[React Native and Firebase](https://firebase.googleblog.com/2016/01/the-beginners-guide-to-react-native-and_84.html)<br/>[Flux - Video](https://facebook.github.io/flux/)|
-| Week&nbsp;12 (4/11) | Sensors and Hardware<br/>[Project 3 (Hybrid) Due](/project-3) | |
-| Week&nbsp;13 (4/18) | User Interface | |
-| Week&nbsp;14 (4/25) | Design | |
+| Week&nbsp;12 (4/11) | User Interface<br/>[Project 3 (Hybrid) Due](/project-3) | |
+| Week&nbsp;13 (4/18) | Design | |
+| Week&nbsp;14 (4/25) | Sensors and Hardware  | |
 | Week&nbsp;15 (5/2)  | Advanced Platform, AR/VR | |
 | Finals Week (5/9)   | Presentations<br/>Project 4 (choice) Due |  |
 

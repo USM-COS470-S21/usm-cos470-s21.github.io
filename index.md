@@ -16,7 +16,7 @@ title: Home
 | Week&nbsp;10 (3/28) | Data Persistence<br/>Project 4 (choice) Proposal Due |[Building the TaskList App in React Native](https://shellmonger.com/2017/05/19/__trashed/)<br/>[Android - Data and File Storage](https://developer.android.com/guide/topics/data/data-storage.html)<br/>[iOS - Persist Data](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/PersistData.html)  |
 | Week&nbsp;11 (4/4)  | Server Side | [Adding Redux to the React Native TaskList App](https://shellmonger.com/2017/05/19/__trashed/)<br/>[Firebase](https://firebase.google.com)<br/>[React Native and Firebase](https://firebase.googleblog.com/2016/01/the-beginners-guide-to-react-native-and_84.html)<br/>[Flux - Video](https://facebook.github.io/flux/)|
 | Week&nbsp;12 (4/11) | User Interface<br/>[Project 3 (Hybrid) Due](/project-3) | [iOS Human Interface Design Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/)<br/>[Android Design Patterns](http://www.androidpatterns.com/)<br/>[Inspired UI](http://android.inspired-ui.com/)<br/>[W3C Accessibility Guidelines](http://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html) |
-| Week&nbsp;13 (4/18) | Design | [Fluid UI Wireframing](https://www.fluidui.com/editor/live/) |
+| Week&nbsp;13 (4/18) | Design | [Fluid UI Wireframing](https://www.fluidui.com/editor/live/)<br/>[Planning Screens and Their Relationships](https://developer.android.com/training/design-navigation/screen-planning.html) |
 | Week&nbsp;14 (4/25) | Sensors and Hardware  | |
 | Week&nbsp;15 (5/2)  | Advanced Platform, AR/VR | |
 | Finals Week (5/9)   | Presentations<br/>Project 4 (choice) Due |  |

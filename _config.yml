@@ -1,12 +1,44 @@
 #
-title: USM COS 470 Mobile Application Development (Spring 2018)
+title: USM COS 470 Mobile Application Development (Spring 2020)
 theme: minima
 excerpt_separator: <!--more-->
-github_username: usm-cos470-s18
+github_username: usm-cos470-s20
 twitter_username: stephenhouser
 author: Stephen Houser
 email: houser@maine.edu
 description: University of Southern Maine, Computer Science
+timezone: America/New York
+
+collections:
+  notes:
+    output: true
+    sort_by: order
+  projects:
+    output: true
+    sort_by: order
+  samples:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: "notes"
+    values:
+      layout: "note"
+      hidden: false
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+      hidden: false
+  - scope:
+      path: ""
+      type: "samples"
+    values:
+      layout: "sample"
+      hidden: false
 
 # Where things are
 #source:       .
@@ -22,7 +54,7 @@ description: University of Southern Maine, Computer Science
 # Handling Reading
 #safe:                 false
 #include:              [".htaccess"]
-#exclude:              ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
+exclude:              ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/", "TODO.md"]
 #keep_files:           [".git", ".svn"]
 #encoding:             "utf-8"
 #markdown_ext:         "markdown,mkdown,mkdn,mkd,md"

@@ -1,9 +1,8 @@
 ---
 title: Project 0 - GitHub Basics
-permalink: /project-0
+due: 2020-02-05 17:35:00 
 ---
-
-Your first assignment for this course is to become accustomed to how GitHub and GitHub Classroom works because we will be using it extensively in the class for your projects and for assignment submission. There are two parts to the assignment and you need to complete both of them to receive credit.
+Your first assignment for this course is to become accustomed to how git, GitHub, and GitHub Classroom works because we will be using it extensively in the class for your projects and for assignment submission. There are two parts to the assignment and you need to complete both of them to receive credit.
 
 <!--more-->
 
@@ -19,7 +18,7 @@ There are several tutorials you should go through if you are not familiar with G
 ## Part 1 - Fix My Mistakes
 If you do not have a GitHub account, go to [https://github.com](https://github.com) and create one before going any further.
 
-Once you have an account, you can [accept the assignment](https://classroom.github.com/a/wwX74vyj) in GitHub Classroom. When you do that a repository will be created for you. It will be called `project-0-github-yourgithubname` and the URL should look like `https://github.com/USM-COS470-S18/project-0-github-yourgithubname`. You should *clone* and work with this new respository. It will also be where you *push* your submission. Other assignments/projects will work similarly.
+Once you have an account, you can [Start the Project in Blackboard](https://bb.courses.maine.edu). When you do that a repository will be created for you. It will be called `project-0-github-yourgithubname` and the URL should look like `https://github.com/USM-COS470-S20/project-0-github-yourgithubname`. You should *clone* and work with this new repository. It will also be where you *push* your submission. Other assignments/projects will work similarly.
 
 The repository that was created when you accepted the assignment has 4 files in it that are part of this assignment. There are two programs and three problems to fix.
 
@@ -37,7 +36,7 @@ You need to do the following:
 ## Part 2 - Tell Me About Your Winter Break!
 NOTE: Before this step will work, I need to add your GitHub Username to the class group for the repo. Do that on the [Google form](https://goo.gl/forms/baGfS7GlTTzWGv8x1). I will try to update the group members consistently, so check back here in a day or so after you register.
 
-* Go to [https://github.com/USM-COS470-S18/cos470-group](https://github.com/USM-COS470-S18/cos470-group)
+* Go to [https://github.com/USM-COS470-S20/cos470-group](https://github.com/USM-COS470-S20/cos470-group)
 * Fork and then clone the repository to your working area.
 * Create a branch named with your GitHub username.
 * Add a section, similar to the first one (mine) and tell us what you did over your break.

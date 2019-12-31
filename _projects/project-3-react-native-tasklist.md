@@ -1,15 +1,15 @@
 ---
 title: Project 3 - React Native Task List
-permalink: /project-3
+due: 2020-04-15 17:35:00
 ---
 ## Specification
 For this project, you are going to build a simple Task List app. Users will be able to open your app and add items to their todo list of things that they want to get done. Each item will have a name, a description, and a way to record whether it has been completed or not. Since we have not yet covered data storage, the app should pre-populate with just a few example items at start up and work as intended while in use, but it does not have to remember the state of the list from run to run.
 
 <!--more-->
-To begin work on Project 3 [accept the assignment in GitHub Classroom](https://classroom.github.com/a/6WbnM2uG).
+To begin work on Project 3 [Start the Project in Blackboard](https://bb.courses.maine.edu).
 
 ## Requirements
-Your app must meet the following requirements and specifications. Deviating from these will result in a reduced grade. Remember this project is graded on a two (2) point scale. If you don't meet all the requiremets you will only get one (1) point.
+Your app must meet the following requirements and specifications. Deviating from these will result in a reduced grade. Remember this project is graded on a two (2) point scale. If you don't meet all the requirements you will only get one (1) point.
 
 You will be doing this app in React Native (JavaScript and JSX). There are a number of React and React Native tutorials, but I've not found one that gets you as far along as there was with iOS or even Android. Your Java programming will help you quite a bit, but keep in mind that JavaScript is not Java and React has a different paradigm than iOS and Android do.
 
@@ -57,7 +57,7 @@ The add and/or edit item should be either a separate screen (using some form of 
 Coming soon
 
 ## Submission Notes
-When we work with GitHub this semester, I will take the state of your repos at the start of class on the due date and use that for grading. There is nothing you need to do specifically in GitHub.
+When we work with GitHub this semester, I will take the state of your repository at the start of class on the due date and use that for grading. There is nothing you need to do specifically in GitHub.
 
 * You **must NOT** include a build for Android (it's doesn't work anyway) in your repository. 
 * You must create a `README.md` file that describes your project and:

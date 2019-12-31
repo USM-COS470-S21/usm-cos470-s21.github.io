@@ -1,16 +1,16 @@
 ---
 title: Project 1 - iOS Task List
-permalink: /project-1
+due: 2020-02-19 17:35:00
 ---
 ## Specification
 For this project, you are going to build a simple Task List app. Users will be able to open your app and add items to their todo list of things that they want to get done. Each item will have a name, a description, and a way to record whether it has been completed or not. Since we are early in the semester and have not yet covered data storage, the app should pre-populate with just a few example items at start up and work as intended while in use, but it does not have to remember the state of the list from run to run.
 
 <!--more--> 
-To begin work on Project 1 [accept the assignment in GitHub Classroom](https://classroom.github.com/a/vyQ-lQjd).
+To begin work on Project 1 [Start the Project in Blackboard](https://bb.courses.maine.edu).
 
 ## Requirements
 
-Your app must meet the following requirements and specifications. Deviating from these will result in a reduced grade. Remember this project is graded on a two (2) point scale. If you don't meet all the requiremets you will only get one (1) point.
+Your app must meet the following requirements and specifications. Deviating from these will result in a reduced grade. Remember this project is graded on a two (2) point scale. If you don't meet all the requirements you will only get one (1) point.
 
 You will be doing this app in Swift. A large number of tutorials you will find will be using Swift 2 and Swift 3 and the latest Xcode uses Swift 4. In many cases, Xcode will autocorrect to the correct version for you, but you need to be cognizant of it and adapt accordingly. You can't just copy/paste and assume everything will work!
 
@@ -88,7 +88,7 @@ Layout management can be interesting in Swift and Xcode. Again, here are some re
 ![Task Detail](/assets/project-1-task-detail.png)
 
 ## Submission Notes
-When we work with GitHub this semester, I will take the state of your repos at the start of class on the due date and use that for grading. There is nothing you need to do specifically in GitHub.
+When we work with GitHub this semester, I will take the state of your repository at the start of class on the due date and use that for grading. There is nothing you need to do specifically in GitHub.
 
 * You **must NOT** include a build for iOS (it's doesn't work anyway) in your repository. 
 * You must create a `README.md` file that describes your project and:

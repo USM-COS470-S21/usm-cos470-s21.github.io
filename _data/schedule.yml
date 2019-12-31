@@ -18,7 +18,7 @@
   meeting: 3
   topic: "iOS (Swift) Model-View-Controller"
   reading: " [Start Developing iOS Apps](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/), [App Programming Guide for iOS](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072-CH1-SW1), [Getting Started with iOS videos](https://training.apple.com/courses/Getting_Started_with_iOS_Development/training.html)"
-  notes: "Project 0 - GitHub Due"
+  notes: "[Project 0 - GitHub Due](/projects/project-0-github)"
 
 - month: 2
   day: 12
@@ -33,7 +33,7 @@
   meeting: 5
   topic: "Android (Kotlin) Basics Android Studio"
   reading: "[Intro to Android](https://developer.android.com/guide/index.html), [Android Studio](https://developer.android.com/studio/intro/index.html), [Building Your First App](https://developer.android.com/training/basics/firstapp/index.html)"
-  notes: "Project 1 - iOS Due"
+  notes: "[Project 1 - iOS Due](/projects/project-1-ios-tasklist)"
 
 - month: 2
   day: 26
@@ -55,7 +55,7 @@
   meeting: 8
   topic: "Hybrid Development (JavaScript) Basics"
   reading: "[Expo Snack IDE](https://snack.expo.io/)"
-  notes: "Project 2 - Android Due"
+  notes: "[Project 2 - Android Due](/projects/project-2-android-tasklist)"
 
 - month: 3
   day: 18
@@ -89,7 +89,7 @@
   meeting: 12
   topic: "User Interface Components"
   reading: "[iOS Human Interface Design Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/), [Android Design Patterns](http://www.androidpatterns.com/), [Inspired UI](http://android.inspired-ui.com/), [W3C Accessibility Guidelines](http://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html)"
-  notes: "Project 3 - Hybrid Due"
+  notes: "[Project 3 - Hybrid Due](/projects/project-3-react-native-tasklist)"
 
 - month: 4
   day: 22
@@ -115,5 +115,5 @@
   date: "2020-05-13 05:35"
   meeting: Finals
   topic: Presentations
-  notes: "Project 4 - Choice Due"
+  notes: "[Project 4 - Your App Here](/projects/poject-4-student-choice)"
 

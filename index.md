@@ -7,7 +7,6 @@ title: Home
             <th>DATE</th>
             <th>TOPIC</th>
             <th>READING</th>
-            <th>NOTES &amp; LINKS</th>
         </tr>
     </thead>
     <tbody>
@@ -16,9 +15,9 @@ title: Home
         {% for meeting in schedule %}
             <tr>
                 <td>{{ meeting.date | date: "%a, %h %d" }}<br/>{{ meeting.meeting }}</td>
-                <td>{{ meeting.topic | markdownify }}</td>
+                <td>{{ meeting.topic | markdownify }}
+                    {{ meeting.notes | markdownify }}</td>
                 <td>{{ meeting.reading | markdownify }}</td>
-                <td>{{ meeting.notes | markdownify }}</td>
             </tr>
         {% endfor %}
 

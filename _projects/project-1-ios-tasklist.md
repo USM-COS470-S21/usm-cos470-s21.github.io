@@ -36,7 +36,7 @@ To accomplish this, you will (most likely) have some set of the following files 
 
 ### Loading Screen Requirements
 
-Something cool. At a minimim, not a blank screen.
+Something cool. At a minimum, not a blank screen.
 
 ### TaskListTableViewController, TaskListTableViewCell, and TaskItem
 
@@ -82,10 +82,10 @@ Layout management can be interesting in Swift and Xcode. Again, here are some re
 
 ### Example Screenshots
 
-![Launch Screen](/assets/project-1-launch.png)
-![Task List](/assets/project-1-tasks-1.png)
-![Task List Swiping](/assets/project-1-tasks-2.png)
-![Task Detail](/assets/project-1-task-detail.png)
+![Launch Screen](project-1-launch.png)
+![Task List](project-1-tasks-1.png)
+![Task List Swiping](project-1-tasks-2.png)
+![Task Detail](project-1-task-detail.png)
 
 ## Submission Notes
 When we work with GitHub this semester, I will take the state of your repository at the start of class on the due date and use that for grading. There is nothing you need to do specifically in GitHub.

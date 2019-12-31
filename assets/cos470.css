@@ -127,30 +127,16 @@ h2 {
 	border-bottom: 1px solid black;
 }
 
+.schedule tr th,
+.schedule tr td {
+	width: 33%;
+}
+
 .schedule tr th:nth-child(1),
 .schedule tr td:nth-child(1) {
 	width: 10%;
 	text-align: center;
 }
-
-.schedule tr th:nth-child(2),
-.schedule tr td:nth-child(2) {
-	width: 5%;
-	text-align: center;
-}
-
-.schedule tr td:nth-child(3) {
-	width: 30%;
-}
-
-.schedule tr td:nth-child(4) {
-	width: 20%;
-}
-
-.schedule tr td:nth-child(5) {
-	width: 40%;
-}
-
 
 .people > li {
 	list-style: none;

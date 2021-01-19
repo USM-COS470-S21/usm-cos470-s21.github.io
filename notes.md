@@ -3,11 +3,12 @@ title: Notes
 layout: default
 permalink: /notes
 ---
-# Lecture Notes
+# Notes
+---
 
 <div class="notes">
 	<ul class="post-list">
-		{% assign notes = site.notes | where: "hidden", "false" | sort: 'order' %}
+		{% assign notes = site.notes | where: "hidden", "false" | sort: 'title' %}
 		{% for note in notes %}
 			<li>
 				<h2><a class="post-link" href="{{ note.url | relative_url }}">{{ note.title | escape }}</a></h2>

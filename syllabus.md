@@ -3,11 +3,9 @@ title: Syllabus
 permalink: /syllabus
 layout: default
 ---
-# COS 470 Mobile Application Development
+# COS 470 The Art and Craft of Software Development
 
-USM Course Catalog: *Topics to be covered may include philosophy of computers, history of computers, computers and society, simulation, graphics, and other advanced topics. Prerequisite: COS 285 or permission of the instructor. Cr 3.*
-
-This course is about developing mobile applications. Students will develop for iOS with Swift, Android with Java, and Cross-platform with JavaScript/HTML/CSS. The course is almost entirely project oriented and will rely on students being well prepared in their reading, research, and development skills.
+This class is aimed at students who want to become more effective and more productive programmers. This class is about *programming as a craft*. It steps beyond knowledge of principles, patterns, and tools and into what makes code good (or bad). Students will discuss and examine code that is readable, maintainable, and effective and how it got that way. They will put these ideas into practice using clean and pragmatic coding methods. They will learn and use tools for modern source code control, development, and delivery along the way.
 
 <!--more-->
 
@@ -16,112 +14,118 @@ Stephen Houser <houser@maine.edu>
 
 ## Course Objectives
 The objectives of the course are as follows.
-* Develop basic skill in app development on iOS, Android, and hybrid platforms.
-* Develop moderate skill and knowledge of a single platform.
-* Develop basic skill in server-side development for mobile platforms.
-* Understand the design and interface layout process for mobile applications.
+* To be a better programmer.
+* Recognize good and bad code.
+* Practice making bad code into good code.
 
 ## Prerequisites and Expectations
 * COS 285 or Permission of the Instructor
 
-The course involves a fair amount of independent learning, experimentation, and work. Internet resources on mobile app development are plentiful and class time is limited. You will be expected to read (or at least skim and absorb) enough of these materials to be prepared for class.
+This course will involve frequent code-reading and code-rewriting inside and outside of scheduled class time. There will be a fair bit of self-directed work and decisions you will need to make and a fair bit of research and searching you will need to do in finding code examples.
 
-Be prepared to work across platforms and with multiple (new to you) languages. There will be a fair amount of moving from one technology to another throughout the course and within a single project.
+You will be expected to be prepared for and participate in in-class discussion about code practices. You will need to read, understand, and be prepared to discuss the relevant textbook and other material at each in-class session.
+
+Be prepared to work across platforms and with multiple (new to you) languages. There will be a fair amount of moving from one technology to another throughout the course and perhaps within a single project.
 
 ## Textbook
-None. We will be using articles, tutorials, and materials freely available on the Internet throughout the course. Links will be provided on the course website.
 
-## Projects
-The course is entirely project-based. There will be one (1) introductory and five (5) programming projects throughout the course. The projects will require you to develop mobile applications on a variety of platforms and technologies.
+*Required*: _Clean Code : A Handbook of Agile Software Craftsmanship_ by Robert C. Martin. We will work directly from this book through the semester.
 
-### Schedule of Projects 
+Suggested: _The Pragmatic Programmer: Your Journey To Mastery_ by David Thomas and Andrew Hunt. This book may be referenced through the semester but we will have no assigned readings or work from it.
 
-| Project   | Project               | Possible Points |
-| :---: | :---                      | :---:           |
-| 0   | GitHub                      |    1            |
-| 1   | iOS Tasklist (mini)         |    2            |
-| 2   | Android Task List (mini)    |    2            |
-| 3   | Hybrid Task List (mini)     |    2            |          
-| 4   | *Choice* Task List (full)   |    2            |          
-| 5   | *Student Designed*          |    4            |          
+Other: We will also be using articles and other materials freely available on the Internet throughout the course. Links will be provided on the course website.
 
+## Assignments
 
-Your code will be submitted (checked in) on [GitHub](https://classroom.github.com/classrooms/30673287-usm-cos-460-540-computer-networks) to an assignment for each project. Details on what needs to be submitted will be included with each assignment. In all cases, you should submit only source code, no binary executable files. 
+There will be six (6) required assignments through the course. Their point value is shown below. These are code-refinement assignments where you are requred to re-write code to demonstrate the clean code practices covered in class and explain (in writing) the changes and how they accomplish the clean-code guidelines.
 
-Your code must compile and run on systems other than your own, specifically the instructor's system. Be diligent not to include absolute paths or other common mistakes that prevent your code being compiled and executed on other systems.
+| #     | Assignment                  | Possible Points |
+| :---: | :---                        | :---:           |
+| 1     | Names and Functions         |    10           |
+| 2     | Comments and Formatting     |    10           |
+| 3     | Objects                     |    10           |
+| 4     | Successive Refinement       |    10           |          
+| 5     | Smells and Heuristics       |    10           |          
+| 6     | *Student Choice*            |    25           |          
 
-Code should work and be your own creation. There are numerous sources of information on the Internet, including code. However, your submissions should be your own work not that of others cut-and-pasted into your projects or that of your classmates. Plagiarism is a serious offence and will be treated accordingly.
+Your work should be your own! The Internet is full of helpful material and the work of others. Feel free to use outside sources as reference for doing your work, but simply copy and pasting is plagiarism. Plagiarism is a serious offence and will be treated accordingly.
 
-### Project Grading Rubric
-The grading rubric for each project and the presentation is extremely simple.
+### Assignment Grading Rubric
 
-#### Project 0 and Presentation:
+| Score | Notes                                                   |
+| :---: | :---                                                    |
+| 9-10  | Met all assignment requirements                         |
+| 8-7   | Met most assignment requirements                        |
+| 6-5   | Met some of the assignment expectations.                |
+| 3-4   | Met few of the assignment requirements.                 |
+| 0-2   | Did not complete the assignment or submission was empty |
 
-| Score | Notes |
-| :---: | :---  |
-| 1     | Completed the project or gave presentation. |
-| 0     | Did not complete the assignment. |
+## Participation and Discussion
 
-#### Projects 1-4:
+Each week's class session will be a discussion of the current week's topic. Participation in the dicussion (and the session) is a required part of the course. We will use a variety of discussion formats; instructor-led, student-led, small groups, and individual reflection. Your participation will be assesed on your engagement and preparedness for these sessions over the entire course.
 
-| Score | Notes |
-| :---: | :---  |
-| 2     | Satisfies all requirements, is well coded, and well laid out. |
-| 1     | Satisfies some/most requirements, has some code style problems, has some layout problems. |
-| 0     | Does not compile, does not work, does not satisfy the requirements |
+NOTE: You may be called on at any time during the class session to present your thoughts on a subject or topic. Be prepared!
 
-#### Project 5:
+### Participation Grading Rubric
 
-| Score | Notes |
-| :---: | :---  |
-| 4     | Satisfies all requirements, is well coded, and well laid out. |
-| 3     | Satisfies most requirements, may have small defects in code and/or layout. |
-| 2     | Satisfies some requirements, has some code style problems, has some layout problems. |
-| 1     | Satisfies only a few requirements, compiles and runs but with serious problems. |
-| 0     | Does not compile, does not work, does not satisfy the requirements |
+| Score   | Notes                                                    |
+| :---:   | :---                                                     |
+| 23 - 25 | Always prepared, attended all classes, contributes often |
+| 20 - 22 | Mostly prepared, attended most classes, contributes sometimes |
+| 14 - 19 | Sometimes prepared, attended some classes, contributed   |
+| 11 - 13 | often unprepared, often misses classes, does not contribute |
+| 0 - 10  | unprepared, often misses classes, does not contribute  |
 
 ## Examinations 
+
 None.
 
 ## Schedule
 
 The following is the schedule for the course. Topic coverage and due dates may change based on progress, snow-days, holidays, and other events.
 
-| Date | Topic | Notes/Reading |
-| :---: | ---   | --- |
-| Week&nbsp;1 	| Introduction, Platforms, GitHub |  |
-| Week&nbsp;2  	| iOS | Project 0 (GitHub) Due |
-| Week&nbsp;3  	| iOS |  |
-| Week&nbsp;4  	| Android | Project 1 (iOS) Due |
-| Week&nbsp;5  	| Android | |
-| Week&nbsp;6  	| Hybrid Development |Project 2 (Android) Due |
-| Week&nbsp;7 	| Hybrid Development | |
-| Week&nbsp;8 	| Data Persistence | Project 3 (Hybrid) Due,<br/> Project 5 (choice) Proposal Due |
-| Week&nbsp;9 	| Server Side | |
-| Week&nbsp;10 	| Sensors and Hardware | Project 4 (full) Due |
-| Week&nbsp;11 	| User Interface | |
-| Week&nbsp;12 	| User Interface | |
-| Week&nbsp;13 	| Design | |
-| Week&nbsp;14 	| Advanced Platform, AR/VR | |
-| Week&nbsp;15 	| Presentations | Project 5 (choice) Due |
+| Week  | Topic                         | Notes/Reading  |
+| :---: | ---                           | ---            |
+| 1     | Introduction                  | Ch. 1          |
+| 2     | Names                         | Ch. 2          |
+| 3     | Functions                     | Ch. 3          |
+| 4     | Comments                      | Ch. 4          |
+| 5     | Formatting                    | Ch. 5          |
+| 6     | Objects and Data Structures   | Ch. 6          |
+| 7     | Error Handling and Boundaries | Ch. 7-8        |
+| 8     | Classes                       | Ch. 10         |
+| 9     | Systems                       | Ch. 11         |
+| 10    | Emergence and Concurrency     | Ch. 12-13      |
+| 11    | Successive Refinement         | Ch. 14         |
+| 12    | Smells and Heruistics         | Ch. 17         |
+| 13    | TBD                           |                |
+| 14    | TBD                           |                |
+| 15    | Final Exam Session (none)     |                |
 
 ## Grades
-Grades for the course will be based on an simple accumulation of points from the projects.
+Grades for the course will be based on an simple accumulation of points from the projects and in-class participation/discussion
+
+| Points    | Item(s)                 |
+| 50        | Assignments #1 - #5 (10pts each)   |
+| 25        | Assignment #6          |
+| 25        | In-class participation |
 
 Schedule of Point Accumulation for Final Grade:
 
-| Points    | Grade |
-| :---:     | :---: |
-| 13 - 14   | A     |
-| 11 - 12   | B     |
-| 8 - 10    | C     |
-| 6 - 7     | D     |
-| 0 - 5     | F     |
+| Points   | Grade |
+| :---:    | :---: |
+| 90 - 100 | A     |
+| 80 - 89  | B     |
+| 60 - 79  | C     |
+| 50 - 59  | D     |
+| 0 - 49   | F     |
 
 ## Late Policy
-Extensions on projects, presentations, and examinations will not be granted except in the case of an emergency. Technical difficulties do not constitute an emergency. Late submissions will be penalized. Lateness will be determined by submission time and the assigned due date.
+
+Extensions on assignments, presentations, and examinations will not be granted except in the case of an emergency. Technical difficulties do not constitute an emergency. Late submissions will be penalized. Lateness will be determined by submission time and the assigned due date.
 
 ## Accommodations and Inclement Weather
+
 Should you need services or accommodations due to a disability to fully participate in the class, please speak with the instructor or contact the Office of Academic Support for Students With Disabilities, Luther Bonney 242 on the Portland Campus.
 
-Class cancellations are posted on USM’s website (http://usm.maine.edu) and on the Storm Line at 780-4800. You can also receive cancellations and emergency information from the USM Alert text messaging system (http://usm.maine.edu/usmalert).
+Class cancellations are posted on USM’s website [http://usm.maine.edu](http://usm.maine.edu) and on the Storm Line at 780-4800. You can also receive cancellations and emergency information from the USM Alert text messaging system [http://usm.maine.edu/usmalert](http://usm.maine.edu/usmalert).

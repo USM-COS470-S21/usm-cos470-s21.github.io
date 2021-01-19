@@ -17,10 +17,11 @@ body {
 	}
 }
 
+/*
 h2 {
 	border-bottom: 1px solid black;	
 }
-
+*/
 .wrapper {
 	max-width: 90%;
 }
@@ -58,8 +59,12 @@ h2 {
 	font-size: 1em;
 }
 
-.post-list > li {
+/* .post-list > li {
 	margin-bottom: 0.25em;
+} */
+
+.post-list li {
+	margin-bottom: 1em;
 }
 
 .post-list li:nth-child(even) {
@@ -72,21 +77,6 @@ h2 {
 .labs .post-list li h2,
 .projects .post-list li h2 {
 	border: none;
-}
-
-.samples .post-list li, 
-.exercises .post-list li, 
-.labs .post-list li,
-.projects .post-list li {
-	padding: 0.5em;
-	border: 1px solid black;
-}
-
-.samples .post-meta,
-.exercises .post-meta,
-.labs .post-meta,
-.projects .post-meta {
-	/* color: red; */
 }
 
 .exercise ol {

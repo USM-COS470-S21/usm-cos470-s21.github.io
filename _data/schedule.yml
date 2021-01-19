@@ -1,119 +1,135 @@
-- month: 1
-  day: 22
-  date: "2020-01-22 05:35"
-  meeting: 1
-  topic: "Introduction, Platforms, GitHub"
-  reading: "[Mobile development 101: What you need to know](https://www.infoworld.com/article/2623833/mobile-development/mobile-development-101--what-you-need-to-know.html), Things I wish I had known before starting iOS development [Part 1](https://medium.com/ios-os-x-development/things-i-wish-i-had-known-before-starting-ios-development-part-1-421a05e8447e#.lmbx6ocxu),[Part 2](https://medium.com/ios-os-x-development/things-i-wish-i-had-known-before-starting-ios-development-part-2-d696eec65866#.4yhlbzxf2), What I Wished I Knew Before I Jumped Into iOS [Part 1](http://simpleprogrammer.com/2015/11/18/what-i-wished-i-knew-before-i-jumped-into-ios-part-i/), [Part 2](http://simpleprogrammer.com/2015/12/23/what-i-wish-i-knew-before-i-jumped-into-ios-part-ii/)"
+-
+  ﻿month: '1'
+  day: '27'
+  date: '1/27'
+  meeting: '1'
+  topic: 'Introduction'
+  reading: 'Ch. 1'
+  notes: ''
 
-- month: 1
-  day: 29
-  date: "2020-01-29 05:35"
-  meeting: 2
-  topic: "iOS (Swift) Basics Xcode"
-  reading: "[Introduction to iOS 11, Xcode 9 and Swift 4](https://youtu.be/71pyOB4TPRE), [MVCs](https://youtu.be/l-2FaQTDYAw?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq)"
+-
+  ﻿month: '2'
+  day: '3'
+  date: '2/3'
+  meeting: '2'
+  topic: 'Names'
+  reading: 'Ch. 2'
+  notes: ''
 
-- month: 2
-  day: 5
-  date: "2020-02-05 05:35"
-  meeting: 3
-  topic: "iOS (Swift) Model-View-Controller"
-  reading: " [Start Developing iOS Apps](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/), [App Programming Guide for iOS](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072-CH1-SW1), [Getting Started with iOS videos](https://training.apple.com/courses/Getting_Started_with_iOS_Development/training.html)"
-  notes: "[Project 0 - GitHub Due](/projects/project-0-github)"
+-
+  ﻿month: '2'
+  day: '10'
+  date: '2/10'
+  meeting: '3'
+  topic: 'Functions'
+  reading: 'Ch. 3'
+  notes: 'Assignment #1 Due'
 
-- month: 2
-  day: 12
-  date: "2020-02-12 05:35"
-  meeting: 4
-  topic: "iOS (Swift)"
-  reading: "[Swift Playgrounds](https://github.com/danielpi/Swift-Playgrounds)"
+-
+  ﻿month: '3'
+  day: '17'
+  date: '3/17'
+  meeting: '4'
+  topic: 'Comments'
+  reading: 'Ch. 4'
+  notes: ''
 
-- month: 2
-  day: 19
-  date: "2020-02-19 05:35"
-  meeting: 5
-  topic: "Android (Kotlin) Basics Android Studio"
-  reading: "[Intro to Android](https://developer.android.com/guide/index.html), [Android Studio](https://developer.android.com/studio/intro/index.html), [Building Your First App](https://developer.android.com/training/basics/firstapp/index.html)"
-  notes: "[Project 1 - iOS Due](/projects/project-1-ios-tasklist)"
+-
+  ﻿month: '3'
+  day: '24'
+  date: '3/24'
+  meeting: '5'
+  topic: 'Formatting'
+  reading: 'Ch. 5'
+  notes: 'Assignment #2 Due'
 
-- month: 2
-  day: 26
-  date: "2020-02-26 05:35"
-  meeting: 6
-  topic: "Android (Kotlin) Activities and Intents"
-  reading: "[Ray Wenderlich Android Tutorials](https://www.raywenderlich.com/category/android), [Material Design To Do List Tutorial](http://dandroiddeveloper.github.io/list)"
+-
+  ﻿month: '3'
+  day: '3'
+  date: '3/3'
+  meeting: '6'
+  topic: 'Objects and Data Structures'
+  reading: 'Ch. 6'
+  notes: ''
 
-- month: 3
-  day: 4
-  date: "2020-03-04 05:35"
-  meeting: 7
-  topic: "Android (Kotlin)"
-  reading: "[Android Activities](https://developer.android.com/guide/components/activities/index.html), [React Native](http://facebook.github.io/react-native/), [React Native - Learn the Basics](http://facebook.github.io/react-native/docs/tutorial.html)"
+-
+  ﻿month: '3'
+  day: '10'
+  date: '3/10'
+  meeting: '7'
+  topic: 'Error Handling and Boundaries'
+  reading: 'Ch. 7-8'
+  notes: 'Assignment #3 Due'
 
-- month: 3
-  day: 11
-  date: "2020-03-11 05:35"
-  meeting: 8
-  topic: "Hybrid Development (JavaScript) Basics"
-  reading: "[Expo Snack IDE](https://snack.expo.io/)"
-  notes: "[Project 2 - Android Due](/projects/project-2-android-tasklist)"
+-
+  ﻿month: '3'
+  day: '17'
+  date: '3/17'
+  meeting: '8'
+  topic: 'Classes'
+  reading: 'Ch. 10'
+  notes: ''
 
-- month: 3
-  day: 18
-  date: "2020-03-18 05:35"
-  topic: "Spring Break -- No Class"
+-
+  ﻿month: '3'
+  day: '24'
+  date: '3/24'
+  meeting: ''
+  topic: '**March Mini-Break**'
+  reading: ''
+  notes: ''
 
-- month: 3
-  day: 25
-  date: "2020-03-25 05:35"
-  meeting: 9
-  topic: "Hybrid Development (JavaScript)"
-  reading: "[Building the Task List in React Native](https://shellmonger.com/2017/05/19/__trashed/)"
+-
+  ﻿month: '3'
+  day: '31'
+  date: '3/31'
+  meeting: '9'
+  topic: 'Systems'
+  reading: 'Ch. 11'
+  notes: 'Assignment #4 Due'
 
-- month: 4
-  day: 1
-  date: "2020-04-01 05:35"
-  meeting: 10
-  topic: "Data Persistence"
-  reading: "[Android - Data and File Storage](https://developer.android.com/guide/topics/data/data-storage.html), [iOS - Persist Data](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/PersistData.html)"
+-
+  ﻿month: '4'
+  day: '7'
+  date: '4/7'
+  meeting: '10'
+  topic: 'Emergence and Concurrency'
+  reading: 'Ch. 12-13'
+  notes: ''
 
-- month: 4
-  day: 8
-  date: "2020-04-08 05:35"
-  meeting: 11
-  topic: "Server Side"
-  reading: "[Adding Redux to the Reack Native Task List App](https://shellmonger.com/2017/05/19/__trashed/), [Firebase](https://firebase.google.com/), [React Native and Firebase](https://firebase.googleblog.com/2016/01/the-beginners-guide-to-react-native-and_84.html), [Flux - Video](https://facebook.github.io/flux/)"
+-
+  ﻿month: '4'
+  day: '14'
+  date: '4/14'
+  meeting: '11'
+  topic: 'Successive Refinement'
+  reading: 'Ch. 14'
+  notes: 'Assignment #5 Due'
 
-- month: 4
-  day: 15
-  date: "2020-04-15 05:35"
-  meeting: 12
-  topic: "User Interface Components"
-  reading: "[iOS Human Interface Design Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/), [Android Design Patterns](http://www.androidpatterns.com/), [Inspired UI](http://android.inspired-ui.com/), [W3C Accessibility Guidelines](http://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html)"
-  notes: "[Project 3 - Hybrid Due](/projects/project-3-react-native-tasklist)"
+-
+  ﻿month: '4'
+  day: '21'
+  date: '4/21'
+  meeting: '12'
+  topic: 'Smells and Heruistics'
+  reading: 'Ch. 17'
+  notes: ''
 
-- month: 4
-  day: 22
-  date: "2020-04-22 05:35"
-  meeting: 13
-  topic: Design
-  reading: "[Fluid UI Wireframing](https://www.fluidui.com/editor/live/), [Planning Screens and their Relationships](https://developer.android.com/training/design-navigation/screen-planning.html)"
+-
+  ﻿month: '4'
+  day: '28'
+  date: '4/28'
+  meeting: '13'
+  topic: 'TBD'
+  reading: ''
+  notes: ''
 
-- month: 4
-  day: 29
-  date: "2020-04-29 05:35"
-  meeting: 14
-  topic: "Sensors and Hardware"
-
-- month: 5
-  day: 6
-  date: "2020-05-06 05:35"
-  meeting: 15
-  topic: "Advanced Platform, AR/VR"
-
-- month: 5
-  day: 13
-  date: "2020-05-13 05:35"
-  meeting: Finals
-  topic: Presentations
-  notes: "[Project 4 - Your App Here](/projects/poject-4-student-choice)"
+-
+  ﻿month: '5'
+  day: '5'
+  date: '5/5'
+  meeting: ''
+  topic: 'Final Exam Session (none)'
+  reading: ''
+  notes: 'Assignment #6 Due'
 

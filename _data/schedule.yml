@@ -12,7 +12,7 @@
   day: '3'
   date: '2/3'
   meeting: '2'
-  topic: 'Names'
+  topic: 'Names and Editors'
   reading: 'Ch. 2'
   notes: ''
 
@@ -21,7 +21,7 @@
   day: '10'
   date: '2/10'
   meeting: '3'
-  topic: 'Functions'
+  topic: 'Functions and Licenses'
   reading: 'Ch. 3'
   notes: 'Assignment #1 Due'
 
@@ -30,7 +30,7 @@
   day: '17'
   date: '3/17'
   meeting: '4'
-  topic: 'Comments'
+  topic: 'Comments and Source Code Control'
   reading: 'Ch. 4'
   notes: ''
 
@@ -39,7 +39,7 @@
   day: '24'
   date: '3/24'
   meeting: '5'
-  topic: 'Formatting'
+  topic: 'Formatting and Microservices'
   reading: 'Ch. 5'
   notes: 'Assignment #2 Due'
 
@@ -66,7 +66,7 @@
   day: '17'
   date: '3/17'
   meeting: '8'
-  topic: 'Classes'
+  topic: 'Classes and Cloud Development'
   reading: 'Ch. 10'
   notes: ''
 
@@ -84,7 +84,7 @@
   day: '31'
   date: '3/31'
   meeting: '9'
-  topic: 'Systems'
+  topic: 'Systems and Codes of Conduct'
   reading: 'Ch. 11'
   notes: 'Assignment #4 Due'
 
@@ -102,7 +102,7 @@
   day: '14'
   date: '4/14'
   meeting: '11'
-  topic: 'Successive Refinement'
+  topic: 'Successive Refinement and Documentation'
   reading: 'Ch. 14'
   notes: 'Assignment #5 Due'
 
@@ -111,7 +111,7 @@
   day: '21'
   date: '4/21'
   meeting: '12'
-  topic: 'Smells and Heruistics'
+  topic: 'Smells and Heruistics and CI/CD'
   reading: 'Ch. 17'
   notes: ''
 

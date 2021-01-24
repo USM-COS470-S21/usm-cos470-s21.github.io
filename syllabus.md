@@ -84,23 +84,23 @@ None.
 
 The following is the schedule for the course. Topic coverage and due dates may change based on progress, snow-days, holidays, and other events.
 
-| Week  | Topic                         | Notes/Reading  |
-| :---: | ---                           | ---            |
-| 1     | Introduction                  | Ch. 1          |
-| 2     | Names                         | Ch. 2          |
-| 3     | Functions                     | Ch. 3          |
-| 4     | Comments                      | Ch. 4          |
-| 5     | Formatting                    | Ch. 5          |
-| 6     | Objects and Data Structures   | Ch. 6          |
-| 7     | Error Handling and Boundaries | Ch. 7-8        |
-| 8     | Classes                       | Ch. 10         |
-| 9     | Systems                       | Ch. 11         |
-| 10    | Emergence and Concurrency     | Ch. 12-13      |
-| 11    | Successive Refinement         | Ch. 14         |
-| 12    | Smells and Heruistics         | Ch. 17         |
-| 13    | TBD                           |                |
-| 14    | TBD                           |                |
-| 15    | Final Exam Session (none)     |                |
+| Week  | Topic                                   | Notes/Reading  |
+| :---: | ---                                     | ---            |
+| 1     | Introduction                            | Ch. 1          |
+| 2     | Names and Editors                       | Ch. 2          |
+| 3     | Functions and Licenses                  | Ch. 3          |
+| 4     | Comments and Source Code Control        | Ch. 4          |
+| 5     | Formatting and Microservices            | Ch. 5          |
+| 6     | Objects and Data Structures             | Ch. 6          |
+| 7     | Error Handling and Boundaries           | Ch. 7-8        |
+| 8     | Classes and Cloud Development           | Ch. 10         |
+| 9     | Systems and Codes of Conduct            | Ch. 11         |
+| 10    | Emergence and Concurrency               | Ch. 12-13      |
+| 11    | Successive Refinement and Documentation | Ch. 14         |
+| 12    | Smells and Heruistics and CI/CD         | Ch. 17         |
+| 13    | TBD                                     |                |
+| 14    | TBD                                     |                |
+| 15    | Final Exam Session (none)               |                |
 
 ## Grades
 Grades for the course will be based on an simple accumulation of points from the projects and in-class participation/discussion

@@ -1,5 +1,5 @@
 -
-  ﻿month: '1'
+  month: '1'
   day: '27'
   date: '1/27'
   meeting: '1'
@@ -8,7 +8,7 @@
   notes: ''
 
 -
-  ﻿month: '2'
+  month: '2'
   day: '3'
   date: '2/3'
   meeting: '2'
@@ -17,7 +17,7 @@
   notes: ''
 
 -
-  ﻿month: '2'
+  month: '2'
   day: '10'
   date: '2/10'
   meeting: '3'
@@ -26,7 +26,7 @@
   notes: 'Assignment #1 Due'
 
 -
-  ﻿month: '3'
+  month: '3'
   day: '17'
   date: '3/17'
   meeting: '4'
@@ -35,7 +35,7 @@
   notes: ''
 
 -
-  ﻿month: '3'
+  month: '3'
   day: '24'
   date: '3/24'
   meeting: '5'
@@ -44,7 +44,7 @@
   notes: 'Assignment #2 Due'
 
 -
-  ﻿month: '3'
+  month: '3'
   day: '3'
   date: '3/3'
   meeting: '6'
@@ -53,7 +53,7 @@
   notes: ''
 
 -
-  ﻿month: '3'
+  month: '3'
   day: '10'
   date: '3/10'
   meeting: '7'
@@ -62,16 +62,16 @@
   notes: 'Assignment #3 Due'
 
 -
-  ﻿month: '3'
+  month: '3'
   day: '17'
   date: '3/17'
   meeting: '8'
-  topic: 'Classes and Cloud Development'
-  reading: 'Ch. 10'
+  topic: 'Unit Tests and Test Driven Development'
+  reading: 'Ch. 9'
   notes: ''
 
 -
-  ﻿month: '3'
+  month: '3'
   day: '24'
   date: '3/24'
   meeting: ''
@@ -80,43 +80,43 @@
   notes: ''
 
 -
-  ﻿month: '3'
+  month: '3'
   day: '31'
   date: '3/31'
   meeting: '9'
-  topic: 'Systems and Codes of Conduct'
-  reading: 'Ch. 11'
-  notes: 'Assignment #4 Due'
+  topic: 'Classes and Cloud Development'
+  reading: 'Ch. 10'
+  notes: 'Version 1.0 of RPN Calculator Due'
 
 -
-  ﻿month: '4'
+  month: '4'
   day: '7'
   date: '4/7'
   meeting: '10'
-  topic: 'Emergence and Concurrency'
-  reading: 'Ch. 12-13'
+  topic: 'Systems and Codes of Conduct'
+  reading: 'Ch. 11'
   notes: ''
 
 -
-  ﻿month: '4'
+  month: '4'
   day: '14'
   date: '4/14'
   meeting: '11'
   topic: 'Successive Refinement and Documentation'
   reading: 'Ch. 14'
-  notes: 'Assignment #5 Due'
+  notes: 'Version 2.0 of RPN Calculator Due'
 
 -
-  ﻿month: '4'
+  month: '4'
   day: '21'
   date: '4/21'
   meeting: '12'
   topic: 'Smells and Heruistics and CI/CD'
   reading: 'Ch. 17'
-  notes: ''
+  notes: 'Version 3.0 of RPN Calculator Due'
 
 -
-  ﻿month: '4'
+  month: '4'
   day: '28'
   date: '4/28'
   meeting: '13'
@@ -125,11 +125,11 @@
   notes: ''
 
 -
-  ﻿month: '5'
+  month: '5'
   day: '5'
   date: '5/5'
   meeting: ''
   topic: 'Final Exam Session (none)'
   reading: ''
-  notes: 'Assignment #6 Due'
+  notes: 'Version 4.0 of RPN Calculator Due'
 
